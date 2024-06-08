@@ -12,9 +12,7 @@ Welcome to the LeetCode Daily Challenges repository! This repository is dedicate
 
 The repository is organized as follows:
 
-1. **Solutions Folder**: Contains Python scripts for each day's LeetCode challenge. Each file is named according to the date and the problem's title.
-   
-2. **README.md**: This file provides an overview of the repository, instructions for contributors, and links to each day's solution files.
+Contains Python scripts for each day's LeetCode challenge. Each file is named according to the date and the problem's title. This file also provides an overview of the repository, instructions for contributors, and links to each day's solution files.
 
 ---
 
@@ -22,7 +20,7 @@ The repository is organized as follows:
 
 To access the solutions:
 
-1. Navigate to the `Solutions` folder.
+1. Navigate to the `Solutions` file with name of the question on leet code.
 2. Open the file corresponding to the date and problem title you're interested in.
 3. Each solution file includes:
    - A brief problem description.
