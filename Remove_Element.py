@@ -15,3 +15,15 @@ class Solution(object):
         :rtype: int
         """
         
+# shortcut syntax      
+class Solution(object):
+    def removeElement(self, nums, val):
+        i = 0
+        nums[:] = [x for x in nums if x != val]
+        return len(nums)
+        """
+        :type nums: List[int]
+        :type val: int
+        :rtype: int
+        """
+        
